@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syahrul Jay</h1>
-<h3 align="center">A passionate fullStack developer from Indonesia</h3>
-
-- 🔭 I’m currently working on [Indoline Sentosa](https://indolinestore.com)
+<h3 align="center">Crafting seamless experiences from frontend finesse to backend brilliance - I am Passionate Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Nest js**
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/syahrul jaylanil](https://www.linkedin.com/in/syahrul-jaylani-312377280/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syahrul jay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syahrul jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syahrul jay" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithjay_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithjay_" height="30" width="40" /></a>
 </p>
 
