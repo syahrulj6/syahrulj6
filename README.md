@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://syahruljayportfolio.vercel.app/](https://syahruljayportfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://syahruljayportfolio.vercel.app/](https://syahruljayportfolio.vercel.app/)
-
 - 💬 Ask me about **Reactjs, Nextjs, Expressjs,Nestjs, etc.**
 
 - 📫 How to reach me **syahruljaylani73@gmail.com**
