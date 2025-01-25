@@ -11,7 +11,7 @@
 
 <h3 align="center">GitHub Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=issues&hide_title=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syahrulj6&show_icons=true&hide=issues&hide_title=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
