@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syahrul Jay</h1>
 <h3 align="center">Crafting seamless experiences from frontend finesse to backend brilliance - I am Passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Nest js**
+- 🌱 I’m currently learning about **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://syahruljayportfolio.vercel.app/](https://syahruljayportfolio.vercel.app/)
 
