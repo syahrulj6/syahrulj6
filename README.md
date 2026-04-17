@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Syahrul+Jay;Full+Stack+Developer;Crafting+Seamless+Experiences" alt="Typing SVG" />
-</h1>
-
 <h3 align="center">✨ Crafting seamless experiences from frontend finesse to backend brilliance - Passionate Full Stack Developer ✨</h3>
 
 <p align="center">
@@ -66,19 +62,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syahruljay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahruljay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahruljay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
 </p>
 
 ---
